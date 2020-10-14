@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">submission</string>
+    <string name="bookmark_collection">Bookmark Collection</string>
+    <string name="title">Title</string>
+    <string name="publishedat">publishedAt</string>
+    <string name="description">Description</string>
+    <string name="ahmad_faisal_rizaki">Ahmad Faisal Rizaki</string>
+    <string name="faisalrizaki_gmail_com">faisalrizaki@gmail.com</string>
+    <string name="author">author</string>
+    <string name="format_date">01 Januari 1990</string>
+    <string name="loading">Loading....</string>
+</resources>
